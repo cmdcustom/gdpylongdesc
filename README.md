@@ -1,1 +1,2 @@
-# gdpylongdesc
+# gdapi
+from test import *
